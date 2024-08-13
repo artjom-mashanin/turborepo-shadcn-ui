@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <div>
-        <Button className="bg-primary-500">CLICK ME</Button>
+        <Button variant={"primary"}>CLICK ME</Button>
 
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
