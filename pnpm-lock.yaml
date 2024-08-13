@@ -75,9 +75,6 @@ importers:
 
   apps/webapp-talent:
     dependencies:
-      '@adart/webapp-shared':
-        specifier: workspace:*
-        version: link:../../packages/webapp-shared
       '@repo/ui':
         specifier: workspace:*
         version: link:../../packages/ui
