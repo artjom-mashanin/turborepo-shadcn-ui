@@ -1,5 +1,5 @@
 {
-  "name": "webapp-talent",
+  "name": "@apps/webapp-talent",
   "private": true,
   "version": "1.0.0",
   "scripts": {
